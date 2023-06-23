@@ -1,0 +1,23 @@
+{
+    "nesco_ict_001": {
+        "geomis_url": "https://geo-mis.nesco.gov.bd/geo-mis",
+        "rest_api_prefix": "https://geo-mis.nesco.gov.bd/nescows",
+        "api_user": "admin",
+        "api_password": "mnzryv",
+        "info": "WebGIS for NESCO hosted on a VM in ICT, NESCO"
+    },
+    "dhk": {
+        "geomis_url": "https://geo-spatial-planning.com/geo-mis",
+        "rest_api_prefix": "https://geo-spatial-planning.com/nescows",
+        "api_user": "admin",
+        "api_password": "mnzryv",
+        "info": "WebGIS for NESCO hosted on Dhaka Server"
+    },
+    "nzi": {
+        "geomis_url": "https://geo-mis.com/geo-mis",
+        "rest_api_prefix": "https://geo-mis.com/nescows",
+        "api_user": "admin",
+        "api_password": "mnzryv",
+        "info": "WebGIS for NESCO hosted on a VM in DEV/NZI"
+    }
+}
