@@ -1,0 +1,8 @@
+[
+{"role_id":"30","role_description":"Heavy Maintenance Line Crew"},
+{"role_id":"40","role_description":"Line Supervysor"},
+{"role_id":"20","role_description":"Lite Maintenance Line Crew"},
+{"role_id":"10","role_description":"Customer"},
+{"role_id":"50","role_description":"Call Center Operator"},
+{"role_id":"60","role_description":"Dispatch Center Operator"}
+]
